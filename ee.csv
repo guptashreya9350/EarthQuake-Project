@@ -1,0 +1,12 @@
+Time,Date,Latitude,Longitude,Depth,Mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+13:33:14,01-05-2023,24.212,125.2916,24.636,5.9,mww,58,40,2.095,1.17,us,us6000kb3g,2023-05-12T13:38:58.775Z,"64 km S of Miyakojima, Japan",earthquake,7.19,4.816,0.071,19,reviewed,us,us
+16:02:00,02-05-2023,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-11T17:57:22.802Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
+06:02:15,03-05-2023,-56.0059,-121.4208,10,5.9,mww,101,36,28.658,0.53,us,us6000kabr,2023-05-09T06:05:38.036Z,southern East Pacific Rise,earthquake,11.96,1.855,0.078,16,reviewed,us,us
+17:47:16,04-05-2023,41.5046,141.9956,62.297,5.9,mww,258,30,1.002,0.66,us,us6000k9ue,2023-05-06T17:53:42.064Z,"Hokkaido, Japan region",earthquake,5.71,3.329,0.048,41,reviewed,us,us
+12:58:03,05-05-2023,37.4932,137.2783,8.222,5.6,mwb,134,46,1.201,0.74,us,us6000k9rh,2023-05-06T13:04:44.331Z,"44 km NE of Anamizu, Japan",earthquake,4.86,2.807,0.029,115,reviewed,us,us
+11:37:10,06-05-2023,-37.2869,177.2709,194.926,5.6,mww,89,24,0.869,1.07,us,us6000k9qv,2023-05-07T03:33:55.040Z,"78 km NNE of Whakatane, New Zealand",earthquake,6.76,3.715,0.045,48,reviewed,us,us
+05:42:04,07-05-2023,37.5402,137.3053,8.712,6.2,mww,132,29,1.226,0.83,us,us6000k9mb,2023-05-09T02:57:06.795Z,"49 km NE of Anamizu, Japan",earthquake,6.65,3.994,0.061,26,reviewed,us,us
+20:09:59,08-05-2023,-4.0881,142.7124,120.588,5.5,mww,185,15,6.884,0.67,us,us7000jxk7,2023-05-04T16:56:34.447Z,"18 km NW of Ambunti, Papua New Guinea",earthquake,7.82,3.672,0.052,36,reviewed,us,us
+14:24:59,09-05-2023,-15.588,-172.6979,32.425,5.5,mww,238,39,2.456,0.62,us,us7000jxhx,2023-05-09T19:45:47.304Z,"124 km ENE of Hihifo, Tonga",earthquake,4.9,3.133,0.086,13,reviewed,us,us
+10:55:55,10-05-2023,-22.1406,-179.4234,570.098,5.6,mww,118,32,4.976,0.81,us,us7000jxbu,2023-05-02T10:59:02.028Z,,earthquake,10.54,5.271,0.098,10,reviewed,us,us
+03:22:09,11-05-2023,26.0075,128.5838,10.813,5.9,mww,76,57,0.871,0.75,us,us7000jxag,2023-05-05T02:26:35.040Z,"79 km ESE of Katsuren-haebaru, Japan",earthquake,4.09,5.071,0.069,20,reviewed,us,us
